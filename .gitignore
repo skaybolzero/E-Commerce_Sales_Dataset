@@ -4,8 +4,4 @@ archive.zip
 *.bat
 data/
 
-#Não carregar análise no primeiro commit
-*.ipynb
-
-
 .ipynb_checkpoints/
